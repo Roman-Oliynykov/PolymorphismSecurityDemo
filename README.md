@@ -1,6 +1,6 @@
 # C++ Virtual Method Tables and Object Memory Layout Demo 
 
-This repository contains a small C++ experiment exploring how polymorphic objects are commonly represented in memory and how virtual method dispatch can be affected by changing the virtual-table pointer.
+This repository is for educational purposes only. It contains a small C++ experiment exploring how polymorphic objects are commonly represented in memory and how virtual method dispatch can be affected by changing the virtual-table pointer.
 
 This is an implementation-specific (x86_64), intentionally unsafe demo. It relies on assumptions about compiler-generated object layout and virtual-table representation, and several operations invoke undefined or implementation-defined behavior. It is intended for learning and experimentation only code.
 
