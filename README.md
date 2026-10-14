@@ -12,6 +12,7 @@ Base::print(), val == 0x01010101
 
 Binary representation of Base object:
 58 cd 4d a8 7a 60 00 00 
+
 01 01 01 01 3a 00 00 00 
 
 VMT table: Base
