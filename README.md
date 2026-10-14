@@ -19,6 +19,7 @@ VMT table: Base
   1: 0x607aa84da7bc
 
 Base::print(), val == 0x01010101
+
 --------
 
 I'm Derived
